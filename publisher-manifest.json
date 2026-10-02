@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b104302af6f36581eade701c",
+  "owner": "vueukyavdu",
+  "repo": "page-c7758bde0ecda16ff30fb57e",
+  "title": "Flyall",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7758bde0ecda16ff30fb57e",
+      "a": "Flyall",
+      "b": "",
+      "entity": "Flyall",
+      "brand": "Flyall",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b7a7cff8a6423b77abd4d4112fc76dc1627e7597e17241e7436f984b7f8a4d0e",
+      "content": {
+        "keyword1": "Flyall",
+        "keyword2": "",
+        "primary_entity": "Flyall",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Flyall 提供可靠的机场订阅与 VPN 梯子服务，支持多端客户端下载，覆盖流媒体、游戏与办公加速，欢迎访问官网获取套餐与配置指南。",
+          "AI_DESCRIPTION": "Flyall 提供可靠的机场订阅与 VPN 梯子服务，支持多端客户端下载，覆盖流媒体、游戏与办公加速，欢迎访问官网获取套餐与配置指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif;background:#FFF8F5;color:#2B241F;line-height:1.65;font-size:16px}a{color:#C94C2A;text-decoration:none}a:hover{text-decoration:underline}header,footer{background:#FFFDFB;border-color:#FF7F50}header{border-bottom:3px solid #FF7F50;padding:14px 0}footer{border-top:3px solid #FF7F50;padding:24px 0;margin-top:32px;font-size:14px}.wrap{max-width:980px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px}h1{font-size:1.75rem;color:#C45C26;margin:0 0 12px;line-height:1.3}h2{font-size:1.35rem;color:#D35400;margin:28px 0 12px;padding-left:12px;border-left:4px solid #FF7F50}h3{font-size:1.1rem;color:#8B3A1A;margin:16px 0 8px}p,li{margin:0 0 10px}.lead{font-size:1.05rem}.stagger{display:flex;flex-wrap:wrap;gap:18px;align-items:stretch;margin:16px 0}.stagger.reverse{flex-direction:row-reverse}.panel,.card{background:#fff;border:1px solid #FFD4C2;border-radius:10px;padding:16px;flex:1 1 280px;min-width:0}.card.featured{border:2px solid #FF7F50;box-shadow:0 6px 16px rgba(255,127,80,.18)}.price{font-size:1.4rem;color:#C94C2A;font-weight:700}.muted{color:#6B5348;font-size:.95rem}ul{padding-left:1.2em}.grid3{display:flex;flex-wrap:wrap;gap:14px}.client-list li{margin-bottom:8px}details{background:#fff;border:1px solid #FFD4C2;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:700;color:#8B3A1A}.note{background:#FFF1EA;border-left:4px solid #FF7F50;padding:12px 14px;border-radius:6px}.links{display:flex;flex-wrap:wrap;gap:8px 14px}.foot-block{margin:14px 0}@media(max-width:720px){.stagger,.stagger.reverse{flex-direction:column}h1{font-size:1.5rem}}</style><header><div class=\"wrap\"><strong>Flyall 官方网站</strong><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端选择</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a></nav></div></header><main class=\"wrap\"><h1>Flyall 机场订阅与 VPN 梯子加速客户端</h1><p class=\"lead\" id=\"intro\">Flyall 面向需要稳定跨境访问的用户，提供机场订阅与多协议节点，帮助完成网络加速、流媒体解锁与游戏链路优化。本页集中说明套餐差异、客户端选择与导入步骤，便于在官网完成下载与配置，而无需在多个页面间跳转。</p><div class=\"stagger\"><div class=\"panel\"><h2>品牌定位</h2><p>Flyall 将机场订阅与客户端使用拆成清晰路径：先按流量与设备数选择套餐，再按系统挑选客户端，最后用订阅链接完成导入。节点侧覆盖常规中转与部分专线能力，旗舰与团队档更强调原生流媒体与高带宽线路。</p><p>服务以订阅制交付，适合个人、 multidevice 家庭与小型团队。页面内所有下载入口均为站内锚点，指向客户端选择与操作说明，避免误入不明来源安装包。</p></div><div class=\"panel\"><h3>你能在官网直接确认的信息</h3><ul><li>三档固定套餐的流量、设备数与线路能力</li><li>Windows / macOS / Android / iOS 等客户端取舍建议</li><li>订阅导入、节点切换与常见故障排查顺序</li><li>广告与友情链接分区，便于区分官方正文</li></ul></div></div><h2 id=\"plans\">套餐一览</h2><p>价格按月展示，同时给出年付优惠口径。请按实际设备数与流量习惯选择，避免为用不到的额度付费。</p><div class=\"grid3\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（重点推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><div class=\"stagger reverse\" id=\"clients\"><div class=\"panel\"><h2>客户端选择（本页重点）</h2><p>Flyall 以通用订阅对接主流内核，不捆绑单一闭源壳。选择原则很简单：系统官方商店能上架的优先商店安装；桌面端优先可订阅、可规则分流的 Clash Meta 系；iOS 按是否已有付费客户端决定 Shadowrocket、Stash 或 Quantumult X。</p><ul class=\"client-list\"><li id=\"download\"><strong>Windows：</strong>Clash Meta / Mihomo 图形客户端，适合规则分流与系统代理。</li><li><strong>macOS：</strong>ClashX Meta 或 Surge，前者贴近订阅工作流，后者适合进阶策略组。</li><li><strong>Android：</strong>Clash Meta for Android 或兼容订阅的 v2rayNG，注意授权 VPN 与自启动。</li><li><strong>iOS / iPadOS：</strong>Shadowrocket、Stash、Quantumult X，需自备商店账号与订阅粘贴。</li><li><strong>路由器 / OpenWrt：</strong>将订阅转为 passwall、openclash 或 homeproxy 配置，适合全家共享。</li></ul><p class=\"note\">官网下载建议：仅从本页客户端说明对应的锚点进入安装指引，导入 Flyall 订阅后再测速选节点。不要在搜索引擎随意下载同名安装包。</p></div><div class=\"panel\"><h3>如何快速判断该用哪一个</h3><p>只看电影和网页：任意支持订阅的 Clash 客户端即可。要打低延迟游戏：旗舰版搭配可指定节点与 UDP 转发的桌面或路由器方案。公司多设备：团队版配合路由器统一出口，减少每人单独登录。</p><p>导入后请先选延迟较低的中转或 IPLC 节点做连通测试，再打开流媒体或游戏。若某个地区节点异常，切换同区域备用线路，而不是反复重装客户端。</p><p><a href=\"#guide\">查看逐步操作说明</a> · <a href=\"#faq\">查看导入失败怎么办</a></p></div></div><h2 id=\"scenes\">使用场景</h2><div class=\"stagger\"><div class=\"panel\"><h3>流媒体与内容访问</h3><p>基础版覆盖常见影视站点的基础解锁；旗舰与团队强调原生解锁，减少验证码与地区不匹配。建议固定一条质量稳定的线路，避免频繁跳节点导致账号风控。</p></div><div class=\"panel\"><h3>游戏与实时语音</h3><p>对延迟敏感的对局，优先使用带 IPLC 说明的旗舰节点，并在客户端开启 UDP。语音软件与游戏分流到不同策略组，可降低互相抢带宽。</p></div></div><div class=\"stagger reverse\"><div class=\"panel\"><h3>跨境办公与资料检索</h3><p>文档协作、代码仓库与学术数据库适合长连接稳定的中转。团队版可按域名定制路由，让国内应用直连、跨境应用走订阅，减少无谓绕路。</p></div><div class=\"panel\"><h3>多设备家庭共享</h3><p>三到五台设备选旗舰；超过五台或需要整网覆盖，用团队版或把订阅放进路由器。手机热点共享时注意流量统计，以免提前耗尽月度额度。</p></div></div><h2 id=\"guide\">操作说明</h2><ol><li>在套餐区选定基础、旗舰或团队档，完成站内订阅后复制订阅链接。</li><li>按系统进入<a href=\"#clients\">客户端选择</a>，安装对应程序并授予代理/VPN 权限。</li><li>在客户端粘贴订阅，更新节点列表；桌面端建议开启系统代理或 TUN。</li><li>先测延迟，再指定一条节点进行网页连通测试，确认 DNS 与规则生效。</li><li>流媒体与游戏分别建立策略组；出现缓冲或丢包时只切换节点，不改订阅地址。</li><li>流量将尽或设备超限时，升级套餐或下线闲置终端，避免连接被拒绝。</li></ol><p>若更新订阅后节点为空，检查链接是否完整、客户端是否支持该订阅类型，并在 FAQ 中对照错误提示。</p><h2 id=\"faq\">常见问题</h2><details><summary>Flyall 是机场还是 VPN？和普通加速器有何不同？</summary><p>Flyall 以机场订阅方式交付节点，可在 Clash、Shadowrocket 等多客户端中使用，而不是只能打开某一个封闭 App。你得到的是可更新的节点列表与分流能力，适合同时处理网页、流媒体和游戏，而不是单一“一键加速”开关。</p></details><details><summary>官方客户端应该从哪里下载？</summary><p>请停留在本官网页面的客户端选择与下载锚点，按操作系统挑选 Clash Meta、ClashX、Shadowrocket 等常用工具。不要通过来路不明的网盘或同名搜索结果安装，以免订阅泄露或被植入无关模块。</p></details><details><summary>订阅链接如何导入才算成功？</summary><p>复制完整 HTTPS 订阅地址，在客户端选择“从 URL 更新”或“粘贴订阅”。成功后应看到分组节点而非空白。若失败，先确认套餐仍在有效期，再检查是否误开了需要额外转换的格式。</p></details><details><summary>三档套餐怎么选才不浪费流量？</summary><p>轻度浏览与偶尔视频用基础版；多设备、4K 与游戏选旗舰版；办公室或家庭整网、需要定制路由选团队版。年付适合已经跑通客户端、确认延迟可接受的用户。</p></details><details><summary>提示设备数量超限或连接不稳定怎么办？</summary><p>先在已登录设备上断开闲置会话，再重连。不稳定时更换同区域备用节点，检查本地 Wi-Fi 与系统时间。旗舰与团队含优先工单，适合需要连续在线的场景。</p></details><details><summary>能否在路由器上使用 Flyall 订阅？</summary><p>可以。将订阅配置到支持 Clash 或同类内核的 OpenWrt、旁路由中，即可让电视与游戏主机共享出口。团队版的高带宽与定制路由更适合这种部署。</p></details><h2>节点与使用提醒</h2><p>节点会随线路质量调整，客户端内定时更新订阅即可。本站不展示虚构评分或用户评论，请以实际延迟与解锁结果为准。合理使用流量，遵守当地与目标站点的服务条款。</p><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-block\" id=\"sitemap\"><h2>网站地图</h2><p class=\"links\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">FAQ</a><a href=\"#download\">下载</a></p></div><div class=\"foot-block\"><h3>广告位</h3><p>品牌合作与信息展示区域（占位）。如需投放请通过官网联系通道沟通，广告内容与 Flyall 订阅服务相互独立。<a href=\"#\">广告合作</a></p></div><div class=\"foot-block\"><h3>友情链接</h3><p class=\"links\"><a href=\"#\">网络工具导航</a><a href=\"#\">客户端文档汇总</a><a href=\"#\">路由固件说明</a><a href=\"#\">流媒体区域对照</a></p></div><p>© Flyall 官方网站 · 机场订阅与客户端下载说明 · <a href=\"#\">https://www.flyall.com/</a></p></div></footer>",
+          "hash": "59b57563721b3eb08fc7c8d26da5168567e2294939f229ab716e8e93dbcd3108",
+          "seo": {
+            "title": "Flyall 官网 | VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "Flyall,Flyall机场,Flyall VPN,梯子,网络加速,加速器,客户端下载,官网下载,Clash,Shadowrocket,机场订阅",
+            "description": "Flyall 提供可靠的机场订阅与 VPN 梯子服务，支持多端客户端下载，覆盖流媒体、游戏与办公加速，欢迎访问官网获取套餐与配置指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blwwurc.cn",
+    "host": "p-1f2b6e50e4.blwwurc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lqqqfoa.cn",
+      "url": "https://lqqqfoa.cn/",
+      "label": "Flyall",
+      "apex": "lqqqfoa.cn",
+      "kind": null,
+      "identity": "jjjpkymfbak/page-f88fca8606a7ced4282233f0"
+    },
+    {
+      "host": "mambajun.cn",
+      "url": "https://mambajun.cn/",
+      "label": "Flyall",
+      "apex": "mambajun.cn",
+      "kind": null,
+      "identity": "efqpmqbd/page-a3c4e82016b75681514de0d5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b80a6b6284c696d501b1c9c827c8751c03a46990568121e07f4aeb3eca7b6e16",
+    "sitemap.xml": "323a03fff105b8a17eabfe74419e4814b28acafc9c37c49c6bf614d7323521df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f2dab9e797adb8222ca2a774133b0de306a07c8606fb1143cc2d921025acb040",
+    "robots.txt": "b5bb94aa66f2196199070e8908b295468a068933c0663d53748aa66a92192a83",
+    "461954a2165f161d8fde65009938afbc.txt": "bd07198be7d4eaf94c7321a21936dc918e4b5b0e54bf816147a30d264c19777a"
+  },
+  "revision": "075a72bdc1899d3e02172d571d36eea9b7ddd769b91502d9b9739363837580ca"
+}
